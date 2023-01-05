@@ -1,4 +1,4 @@
-# penguin-fanclub-website
+# Penguin Fanclub Website
 Assignment Example for Week 3 - Making a Penguin Fanclub Website
 
 - Using Responsive Design with Mobile First Approach
