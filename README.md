@@ -1,5 +1,5 @@
-# Penguin Fanclub Website
-Assignment Example for Week 3 - Making a Penguin Fanclub Website
+# My Landing Website - Penguin Fanclub
+Assignment Example for Week 3 - Making a landing web page (example: Penguin Fanclub Website)
 
 - Using Responsive Design with Mobile First Approach
 - Using Grid Layout
